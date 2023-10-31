@@ -8,6 +8,7 @@ public class PersegiCalculator {
         Scanner input = new Scanner(System.in);
         double sisi;
 
+        System.out.println("selamat datang");
         // Menampilkan pesan sambutan kepada pengguna
         System.out.println("Program Hitung Luas dan Keliling Persegi");
 
